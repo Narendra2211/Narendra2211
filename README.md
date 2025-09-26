@@ -8,7 +8,9 @@ ___
 - 🧠 Curious learner, always exploring new tools, frameworks, and web technologies.
 - 🎨 Enjoy experimenting with UI ideas and following modern design trends.
 - ☕ Coffee fuels my focus and creativity during late-night coding sessions.
+
 - 📌 Quick Overview
+
 - 📚 I’m currently learning: Full-Stack Development using Python (Django/FastAPI)
 - 👀 Open to: Entry-level opportunities and internships in Python development and Frontend development
 - 💬 Ask me about: Python, MySql, HTML/CSS, JavaScript, or anything beginner-friendly
