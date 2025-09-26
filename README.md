@@ -16,6 +16,7 @@ ___
 - 💬 Ask me about: Python, MySql, HTML/CSS, JavaScript, or anything beginner-friendly
 - 🆕 I'm a fresher excited to build real-world applications and grow as a developer
 - 📫 How to reach me: [narendras5214@gmail.com](mailto:narendras5214@gmail.com)
+- 🆕 I'm a fresher excited to build real-world applications and grow as a developer
 ___
 ___
 🛠 Tech Stack
