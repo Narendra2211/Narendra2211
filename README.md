@@ -55,17 +55,9 @@ Top Langs
 
 ___
 🤝🏻 Connect with Me
-<div class="social-icons">
-    <a href="https://www.linkedin.com" target="_blank" class="icon linkedin">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
-    </a>
-    <a href="mailto:example@gmail.com" class="icon gmail">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail">
-    </a>
-    <a href="https://www.instagram.com" target="_blank" class="icon instagram">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram">
-    </a>
-</div>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Narendra2211)
+
 
 ___
 
