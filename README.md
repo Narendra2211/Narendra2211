@@ -1,4 +1,4 @@
-👋 Hey there! I'm Narendra.
+👋 Hi there! I'm Narendra.
 ---
 🎓 Master of Computer Applications graduate  |  💻 Passionate Developer  |   
 ___
