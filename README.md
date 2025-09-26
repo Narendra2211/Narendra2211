@@ -51,6 +51,27 @@ Tools & IDEs
 
 Top Langs
 🤝🏻 Connect with Me
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/yourusername/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<!-- Gmail -->
+<a href="mailto:youremail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<!-- Instagram -->
+<a href="https://www.instagram.com/yourusername/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+___
+
+<img src="https://img.shields.io/badge/Problem%20Solver-8A2BE2?style=for-the-badge&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Team%20Player-32CD32?style=for-the-badge&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Creative%20Thinker-FF4500?style=for-the-badge&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Lifelong%20Learner-FFD700?style=for-the-badge&logoColor=white"/>
+
   
 
    
