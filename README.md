@@ -9,7 +9,7 @@ ___
 - 🎨 Enjoy experimenting with UI ideas and following modern design trends.
 - ☕ Coffee fuels my focus and creativity during late-night coding sessions.
 
-- 📌 Quick Overview
+📌 Quick Overview
 
 - 📚 I’m currently learning: Full-Stack Development using Python (Django/FastAPI)
 - 👀 Open to: Entry-level opportunities and internships in Python development and Frontend development
