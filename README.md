@@ -50,21 +50,23 @@ Tools & IDEs
 </p>
 
 Top Langs
+
+
+
+___
 🤝🏻 Connect with Me
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/yourusername/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<div class="social-icons">
+    <a href="https://www.linkedin.com" target="_blank" class="icon linkedin">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn">
+    </a>
+    <a href="mailto:example@gmail.com" class="icon gmail">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail">
+    </a>
+    <a href="https://www.instagram.com" target="_blank" class="icon instagram">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram">
+    </a>
+</div>
 
-<!-- Gmail -->
-<a href="mailto:youremail@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<!-- Instagram -->
-<a href="https://www.instagram.com/yourusername/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 ___
 
 <img src="https://img.shields.io/badge/Problem%20Solver-8A2BE2?style=for-the-badge&logoColor=white"/> 
