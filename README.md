@@ -1,7 +1,7 @@
-👋 Hey there! I'm Narendra. 
-
+👋 Hey there! I'm Narendra.
+---
 🎓 Master of Computer Applications graduate  |  💻 Passionate Developer  |   
-
+___
 👨🏻‍💻 About Me
 - 🐍 Aspiring Python Full-Stack Developer with a passion for backend logic and frontend technologies with clean design.
 - 🎓 Fresher with a background in Computer Applications and strong fundamentals in programming.
