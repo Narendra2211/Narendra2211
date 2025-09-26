@@ -56,6 +56,27 @@ Top Langs
 ___
 🤝🏻 Connect with Me
 
+<div class="social-icons">
+  <a href="https://github.com/YourUsername" target="_blank">
+    <img src="github-icon.png" alt="GitHub">
+  </a>
+</div>
+
+.social-icons a img {
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+  padding: 8px;
+  background: #1c1c1c; /* dark background */
+  box-shadow: 0px 0px 6px rgba(255, 255, 255, 0.2);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.social-icons a img:hover {
+  transform: scale(1.1);
+  box-shadow: 0px 0px 12px rgba(255, 255, 255, 0.4);
+}
+
 
 
 ___
