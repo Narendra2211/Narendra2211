@@ -56,11 +56,21 @@ Top Langs
 ___
 🤝🏻 Connect with Me
 
-<div class="social-icons">
-  <a href="https://github.com/YourUsername" target="_blank">
-    <img src="github-icon.png" alt="GitHub">
+<!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/your-linkedin-id/">
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="linkedin"/>
   </a>
-</div>
+
+  <!-- Gmail -->
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" alt="gmail"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/your-instagram-id/">
+    <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="instagram"/>
+  </a>
+</p>
 
 .social-icons a img {
   width: 50px;
