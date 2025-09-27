@@ -22,8 +22,6 @@ ___
 🛠 Tech Stack
 
 Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
@@ -73,12 +71,12 @@ ___
 </p>
 
 ___
-
-
-![Problem Solver](https://img.shields.io/badge/-Problem%20Solver-8e44ad?style=for-the-badge&logo=)
-![Team Player](https://img.shields.io/badge/-Team%20Player-27ae60?style=for-the-badge&logo=)
-![Creative Thinker](https://img.shields.io/badge/-Creative%20Thinker-e67e22?style=for-the-badge&logo=)
-![Lifelong Learner](https://img.shields.io/badge/-Lifelong%20Learner-f1c40f?style=for-the-badge&logo=)
+<p align="center">
+  ![Problem Solver](https://img.shields.io/badge/-Problem%20Solver-8e44ad?style=for-the-badge&logo=)
+  ![Team Player](https://img.shields.io/badge/-Team%20Player-27ae60?style=for-the-badge&logo=)
+  ![Creative Thinker](https://img.shields.io/badge/-Creative%20Thinker-e67e22?style=for-the-badge&logo=)
+  ![Lifelong Learner](https://img.shields.io/badge/-Lifelong%20Learner-f1c40f?style=for-the-badge&logo=)
+</p>
 
    
   
