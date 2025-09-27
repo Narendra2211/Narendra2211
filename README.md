@@ -52,7 +52,7 @@ Top Langs
 
 ### 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=false&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narendra2211&layout=compact&theme=dtokyonight&hide_border=false&langs_count=6" />
 </p>
 
 
