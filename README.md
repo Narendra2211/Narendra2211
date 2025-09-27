@@ -82,8 +82,7 @@ ___
 ___
 
 <p>
-&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Problem%20Solver-8A2BE2?style=for-the-badge&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Problem%20Solver-8A2BE2?style=for-the-badge&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Team%20Player-32CD32?style=for-the-badge&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Creative%20Thinker-FF4500?style=for-the-badge&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Lifelong%20Learner-FFD700?style=for-the-badge&logoColor=white"/>
