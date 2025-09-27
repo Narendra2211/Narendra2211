@@ -58,17 +58,19 @@ Top Langs
 ___
 🤝🏻 Connect with Me
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/narendra-surthani-396727305/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a>
+<p align="center">
+   <a href="https://www.linkedin.com/in/narendra-surthani-396727305/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+   </a>
 
-<a href="mailto:narendras5214@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40"/>
-</a>
+  <a href="mailto:narendras5214@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40"/>
+  </a>
 
-<a href="https://www.instagram.com/mugdha_surthani_24/" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40"/>
-</a>
+  <a href="https://www.instagram.com/mugdha_surthani_24/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40"/>
+  </a>
+</p>
 
 ___
 
