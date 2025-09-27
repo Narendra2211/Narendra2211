@@ -71,10 +71,9 @@ ___
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40"/>
   </a>
 
-   <a href="tel:+917989388191">
-    <img src="https://img.icons8.com/ios-filled/50/000000/phone.png" width="40" height="40"/>
+  <a href="tel:+917989388191">
+    <img src="https://img.icons8.com/ios-filled/50/4CAF50/phone.png" style="background-color:#4CAF50; padding:8px; border-radius:8px;" width="40" height="40"/>
   </a>
-
 </p>
 
 
