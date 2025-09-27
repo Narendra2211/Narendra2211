@@ -56,21 +56,18 @@ Top Langs
 ___
 🤝🏻 Connect with Me
 
-<!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/your-linkedin-id/">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="linkedin"/>
-  </a>
+<a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
 
-  <!-- Gmail -->
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" alt="gmail"/>
-  </a>
+<a href="mailto:yourmail@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40"/>
+</a>
 
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/your-instagram-id/">
-    <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="instagram"/>
-  </a>
-</p>
+<a href="https://www.instagram.com/yourprofile/" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40"/>
+</a>
+
 
 .social-icons a img {
   width: 50px;
