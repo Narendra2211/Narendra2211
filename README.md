@@ -58,27 +58,25 @@ Top Langs
 ___
 🤝🏻 Connect with Me
 
-<a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/narendra-surthanu-396727305/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com" target="_blank">
+<a href="mailto:narendras5214@gmail.com" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40"/>
 </a>
 
-<a href="https://www.instagram.com/yourprofile/" target="_blank">
+<a href="https://www.instagram.com/mugdha_surthani_24/" target="_blank">
   <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40"/>
 </a>
 
 ___
-<center>
-<p>
+
+
 ![Problem Solver](https://img.shields.io/badge/-Problem%20Solver-8e44ad?style=for-the-badge&logo=)
 ![Team Player](https://img.shields.io/badge/-Team%20Player-27ae60?style=for-the-badge&logo=)
 ![Creative Thinker](https://img.shields.io/badge/-Creative%20Thinker-e67e22?style=for-the-badge&logo=)
 ![Lifelong Learner](https://img.shields.io/badge/-Lifelong%20Learner-f1c40f?style=for-the-badge&logo=)
-</p>
-</center>
 
    
   
