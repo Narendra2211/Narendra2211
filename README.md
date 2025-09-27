@@ -52,7 +52,7 @@ Top Langs
 
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narendra2211&layout=compact&theme=dracula&hide_border=false&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narendra2211&layout=compact&theme=gruvbox&hide_border=false&langs_count=6" />
 </p>
 
 ___
