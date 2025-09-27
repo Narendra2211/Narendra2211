@@ -22,6 +22,8 @@ ___
 🛠 Tech Stack
 
 Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
@@ -68,33 +70,15 @@ ___
   <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40"/>
 </a>
 
-
-.social-icons a img {
-  width: 50px;
-  height: 50px;
-  border-radius: 10px;
-  padding: 8px;
-  background: #1c1c1c; /* dark background */
-  box-shadow: 0px 0px 6px rgba(255, 255, 255, 0.2);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.social-icons a img:hover {
-  transform: scale(1.1);
-  box-shadow: 0px 0px 12px rgba(255, 255, 255, 0.4);
-}
-
-
-
 ___
-
+<center>
 <p>
-<img src="https://img.shields.io/badge/Problem%20Solver-8A2BE2?style=for-the-badge&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Team%20Player-32CD32?style=for-the-badge&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Creative%20Thinker-FF4500?style=for-the-badge&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Lifelong%20Learner-FFD700?style=for-the-badge&logoColor=white"/>
+![Problem Solver](https://img.shields.io/badge/-Problem%20Solver-8e44ad?style=for-the-badge&logo=)
+![Team Player](https://img.shields.io/badge/-Team%20Player-27ae60?style=for-the-badge&logo=)
+![Creative Thinker](https://img.shields.io/badge/-Creative%20Thinker-e67e22?style=for-the-badge&logo=)
+![Lifelong Learner](https://img.shields.io/badge/-Lifelong%20Learner-f1c40f?style=for-the-badge&logo=)
 </p>
-  
+</center>
 
    
   
