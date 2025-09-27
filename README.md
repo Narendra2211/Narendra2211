@@ -70,7 +70,12 @@ ___
   <a href="https://www.instagram.com/mugdha_surthani_24/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40"/>
   </a>
+
+  <a href="tel:+911234567890">
+    <img src="https://img.icons8.com/fluency/48/000000/phone.png" width="40" height="40"/>
+  </a>
 </p>
+
 
 ___
 
