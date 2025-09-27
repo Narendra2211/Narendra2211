@@ -71,12 +71,10 @@ ___
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40"/>
   </a>
 
-  <a href="tel:+917989388191">
-    <img src="https://img.icons8.com/ios-filled/50/4CAF50/phone.png" style="background-color:#4CAF50; padding:8px; border-radius:8px;" width="40" height="40"/>
+  <a href="https://wa.me/917989388191">
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/whatsapp.png" style="background-color:#25D366; padding:8px; border-radius:8px;" width="40" height="40"/>
   </a>
 </p>
-
-
 ___
 
 <p align="center">
