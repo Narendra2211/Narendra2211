@@ -50,14 +50,10 @@ Tools & IDEs
 
 Top Langs
 
-### 📊 Most Used Languages
+ 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narendra2211&layout=compact&theme=dtokyonight&hide_border=false&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narendra2211&layout=compact&theme=dracula&hide_border=false&langs_count=6" />
 </p>
-
-
-
-
 
 ___
 🤝🏻 Connect with Me
